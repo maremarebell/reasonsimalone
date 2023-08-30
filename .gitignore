@@ -1,3 +1,6 @@
 
 .DS_Store
 .gitattributes
+
+# Local Netlify folder
+.netlify
